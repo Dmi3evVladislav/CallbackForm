@@ -6,10 +6,11 @@
 <a href="https://www.figma.com/file/S1GETdSKMzG3zPJLK48dzH/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0-%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%BE%D0%B9-%D1%81%D0%B2%D1%8F%D0%B7%D0%B8?type=design&node-id=5%3A227&mode=design&t=z0oQ1Vji5gNcoirk-1">Макет фигма</a>
 <br>
 <h4>Для запуска используйте Vue 3:</h4>
-```
-cd callbackform
-npm install
-npm run serve
-```
+
+<p>callbackform</p>
+<p>npm install</p>
+<p>npm run serve</p>
+
+
 <h4>Или же откройте уже собранный проект:</h4>
 callbackform > dist > index.html
